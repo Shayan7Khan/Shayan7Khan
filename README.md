@@ -1,109 +1,188 @@
-# Hi there, I'm Shayan Khan 👋
+<h1 align="center">Hi there, I'm Shayan Khan 👋</h1>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Flutter+Developer+%7C+1%2B+Years+Experience;Software+Engineering+Graduate;Building+Impactful+Mobile+Applications;Open+to+Collaborations+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Flutter+Developer+%7C+1%2B+Years+Experience;Software+Engineering+Graduate;Building+Impactful+Mobile+Applications;Open+to+Collaborations+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shayan7Khan&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shayan7Khan&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</p>
 
 </div>
 
-I'm a **Flutter Developer** and **Software Engineering graduate** from IMSciences with a passion for building impactful mobile applications. Currently working as a **Flutter Developer at AntonX**.
+<p align="center">
+I'm a <strong>Flutter Developer</strong> and <strong>Software Engineering graduate</strong> from IMSciences with a passion for building impactful mobile applications. Currently working as a <strong>Flutter Developer at AntonX</strong>.
+</p>
+
+<br/>
+
 ## 👨‍💻 About Me
+```yaml
+education: "B.S. Software Engineering, IMSciences (2021-2025)"
+current_role: "Flutter Developer @ AntonX, Peshawar"
+learning: "AWS Cloud Technologies | Preparing for AWS Certified Cloud Practitioner"
+founding_member: "Nafsiyat-e-Roshni - Mental Health Awareness NGO"
+volunteer: "Regular blood donor for Thalassemia patients since 2019"
+interests: ["Flutter", "Mobile Development", "Cloud Computing", "AI Integration"]
+fun_fact: "I use Arch btw 🐧 and love exploring new tech stacks!"
+```
 
-- 🎓 Bachelor of Science in **Software Engineering** from Institute of Management Sciences (2021-2025)
-- 💼 Currently working as **Flutter Developer** at AntonX, Peshawar
-- 🌱 Currently learning **AWS Cloud Technologies** and preparing for **AWS Certified Cloud Practitioner**
-- 🏥 Founding Member of **Nafsiyat-e-Roshni** - Mental Health Awareness NGO
-- 🩸 Regular blood donor for Thalassemia patients since 2019
-- 💬 Ask me about **Flutter, Mobile Development, Cloud Computing, AI Integration**
-- ⚡ Fun fact: I use Arch btw and love exploring new tech stacks!
+<br/>
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-### Languages
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
-### Mobile Development
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Material Design](https://img.shields.io/badge/-Material_Design-757575?style=flat&logo=material-design&logoColor=white)
+**Languages**
 
-### Backend & Databases
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![PostGIS](https://img.shields.io/badge/-PostGIS-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/-EC2-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![AWS S3](https://img.shields.io/badge/-S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
+</td>
+<td align="center" width="33%">
 
-### AI & Integrations
-![AssemblyAI](https://img.shields.io/badge/-AssemblyAI-000000?style=flat&logo=ai&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/-Gemini_AI-4285F4?style=flat&logo=google&logoColor=white)
+**Mobile Development**
 
-### Developer Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=material-design&logoColor=white" />
 
-### Operating Systems
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white)
+</td>
+<td align="center" width="33%">
+
+**Backend & Databases**
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="33%">
+
+**Cloud & DevOps**
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
+
+</td>
+<td align="center" width="33%">
+
+**AI & Integrations**
+
+<img src="https://img.shields.io/badge/AssemblyAI-000000?style=for-the-badge&logo=ai&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+
+</td>
+<td align="center" width="33%">
+
+**Developer Tools**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center" colspan="3">
+
+**Operating Systems**
+
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## 📊 GitHub Statistics
 
-![Shayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shayan7Khan&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shayan7Khan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shayan7Khan&theme=tokyonight&hide_border=true" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shayan7Khan&layout=compact&theme=radical&hide_border=true)
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shayan7Khan&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shayan7Khan&theme=radical&hide_border=true)
+<br/>
 
 ## 🌱 What I'm Working On
 
-- 📱 Building scalabale mobile apps with **Flutter** 
-- ☁️ Exploring  **AWS** 
-- 🤖 Exploring **AI integrations** in mobile applications
+<table>
+<tr>
+<td width="50%">
+
+- 📱 Building **scalable mobile apps** with Flutter
+- ☁️ Exploring **AWS Cloud Services**
+- 🤖 Integrating **AI capabilities** in mobile applications
+
+</td>
+<td width="50%">
+
 - 🧠 Spreading mental health awareness through **Nafsiyat-e-Roshni**
+- 🚀 Contributing to **open-source projects**
+- 📚 Continuous learning and skill development
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## 🌟 Featured Projects
 
-### 💼 [Skillzy - Career Consultation App](https://github.com/Shayan7Khan/skillzy-frontend)
-ML-powered career guidance mobile app built with Flutter, Node.js, and MongoDB. Features intelligent recommendation system and hosted on AWS EC2.
+<div align="center">
 
-**Tech Stack:** Flutter | Node.js | MongoDB | Machine Learning | AWS EC2
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 💼 **[Skillzy](https://github.com/Shayan7Khan/skillzy-frontend)** | ML-powered career guidance mobile app with intelligent recommendation system | `Flutter` `Node.js` `MongoDB` `ML` `AWS EC2` |
+| 🕌 **Masjid Atlas** | Geolocation-based mosque discovery app with advanced spatial queries | `Flutter` `Supabase` `PostgreSQL` `PostGIS` |
+| 🎙️ **[TranscriptoMatic](https://github.com/Shayan7Khan/TranscriptoMatic)** | AI-powered speech-to-text transcription with semantic analysis | `Flutter` `AssemblyAI` `Gemini AI` `Provider` |
 
-### 🕌 Masjid Atlas App
-Mobile application helping users discover nearby mosques using geolocation. Built with Flutter and Supabase with PostGIS for geospatial queries.
+</div>
 
-**Tech Stack:** Flutter | Supabase | PostgreSQL | PostGIS | Data Scraping
+<br/>
 
-### 🎙️ [TranscriptoMatic](https://github.com/Shayan7Khan/TranscriptoMatic)
-AI-powered transcription tool converting speech to text with semantic analysis using AssemblyAI and Gemini AI.
+## 📫 Let's Connect
 
-**Tech Stack:** Flutter | Supabase | Assembly AI | Gemini AI | Provider
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shayan-khan-17110822a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://shayankhan.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shayan.khan12115@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shayan7Khan)
 
-## 📫 Connect With Me
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shayan-khan-17110822a/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react&logoColor=white)](https://shayankhan.vercel.app/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shayan.khan12115@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Shayan7Khan)
+<br/>
 
-## 💭 Quote I Live By
+<div align="center">
 
-> "The best way to predict the future is to create it." - Peter Drucker
+### 💭 Quote I Live By
+
+> *"The best way to predict the future is to create it."* — **Peter Drucker**
+
+<br/>
 
 ---
 
-⭐️ From [Shayan7Khan](https://github.com/Shayan7Khan)
+⭐️ **From [Shayan7Khan](https://github.com/Shayan7Khan)** | **Happy Coding!** 🚀
 
-**Happy Coding!** 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
+</div>
