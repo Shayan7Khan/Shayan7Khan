@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Flutter+Developer+%7C+1%2B+Years+Experience;Mobile+App+Specialist+%F0%9F%93%B1;Cloud+%26+AI+Enthusiast+%E2%98%81%EF%B8%8F;Turning+Ideas+%E2%9E%A1%EF%B8%8F+Apps+%E2%9E%A1%EF%B8%8F+Pipelines)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Flutter+Developer+%7C+1%2B+Years+Experience;Mobile+App+Specialist+%F0%9F%93%B1;Cloud+%26+AI+Enthusiast+%E2%98%81%EF%B8%8F;Turning+Ideas+into+Apps+into+Pipelines+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shayan7Khan&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
