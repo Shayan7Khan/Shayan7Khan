@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
-I'm a <strong>Flutter Developer</strong> and <strong>Software Engineering graduate</strong> from IMSciences with a passion for building impactful mobile applications. Currently working as a <strong>Flutter Developer at AntonX</strong>.
+I'm a <strong>Flutter Developer</strong> with a passion for building impactful mobile applications. Currently working as a <strong>Flutter Developer at AntonX</strong>.
 </p>
 
 <br/>
