@@ -1,9 +1,14 @@
 # Hi there, I'm Shayan Khan 👋
 
-I'm a **Flutter Developer** and **Software Engineering graduate** from IMSciences with a passion for building impactful mobile applications. Currently working as a **Flutter Developer at AntonX**.
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Flutter+Developer+%7C+1%2B+Years+Experience;Software+Engineering+Graduate;Building+Impactful+Mobile+Applications;Open+to+Collaborations+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shayan7Khan&color=blue)
 
+</div>
+
+I'm a **Flutter Developer** and **Software Engineering graduate** from IMSciences with a passion for building impactful mobile applications. Currently working as a **Flutter Developer at AntonX**.
 ## 👨‍💻 About Me
 
 - 🎓 Bachelor of Science in **Software Engineering** from Institute of Management Sciences (2021-2025)
