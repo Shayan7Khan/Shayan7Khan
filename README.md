@@ -2,10 +2,12 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Flutter+Developer+%7C+1%2B+Years+Experience;Software+Engineering+Graduate;Building+Impactful+Mobile+Applications;Open+to+Collaborations+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Flutter+Developer+%7C+1%2B+Years+Experience;Mobile+App+Specialist+%F0%9F%93%B1;Cloud+%26+AI+Enthusiast+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shayan7Khan&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Shayan7Khan&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Shayan7Khan?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Shayan7Khan?label=Total%20Stars&style=for-the-badge&color=yellow" alt="Total Stars" />
 </p>
 
 </div>
@@ -117,6 +119,7 @@ fun_fact: "I use Arch btw 🐧 and love exploring new tech stacks!"
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shayan7Khan&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shayan7Khan&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 <br/>
