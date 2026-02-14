@@ -1,20 +1,18 @@
 # Hi there, I'm Shayan Khan 👋
 
-I'm a **Flutter Developer** and **Software Engineering graduate** from IMSciences with a passion for building impactful mobile applications. Currently working as a **Flutter Developer Intern at AntonX** and **Co-Founder & COO at Verve Tech**.
+I'm a **Flutter Developer** and **Software Engineering graduate** from IMSciences with a passion for building impactful mobile applications. Currently working as a **Flutter Developer at AntonX**.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shayan7Khan&color=blue)
 
 ## 👨‍💻 About Me
 
 - 🎓 Bachelor of Science in **Software Engineering** from Institute of Management Sciences (2021-2025)
-- 💼 Currently working as **Flutter Developer Intern** at AntonX, Peshawar
-- 🚀 Co-Founder & COO at **Verve Tech** - A software agency providing IT solutions
+- 💼 Currently working as **Flutter Developer** at AntonX, Peshawar
 - 🌱 Currently learning **AWS Cloud Technologies** and preparing for **AWS Certified Cloud Practitioner**
 - 🏥 Founding Member of **Nafsiyat-e-Roshni** - Mental Health Awareness NGO
 - 🩸 Regular blood donor for Thalassemia patients since 2019
 - 💬 Ask me about **Flutter, Mobile Development, Cloud Computing, AI Integration**
-- 📫 Reach me at **shayan.khan12115@gmail.com**
-- ⚡ Fun fact: I run Arch Linux and love exploring new tech stacks!
+- ⚡ Fun fact: I use Arch btw and love exploring new tech stacks!
 
 ## 🛠️ Technologies & Tools
 
@@ -65,10 +63,9 @@ I'm a **Flutter Developer** and **Software Engineering graduate** from IMScience
 
 ## 🌱 What I'm Working On
 
-- 📱 Building geolocation-based mobile apps with **Flutter** and **PostGIS**
-- ☁️ Preparing for **AWS Certified Cloud Practitioner** certification
+- 📱 Building scalabale mobile apps with **Flutter** 
+- ☁️ Exploring  **AWS** 
 - 🤖 Exploring **AI integrations** in mobile applications
-- 🚀 Growing **Verve Tech** and delivering innovative IT solutions
 - 🧠 Spreading mental health awareness through **Nafsiyat-e-Roshni**
 
 ## 🌟 Featured Projects
@@ -88,37 +85,6 @@ AI-powered transcription tool converting speech to text with semantic analysis u
 
 **Tech Stack:** Flutter | Supabase | Assembly AI | Gemini AI | Provider
 
-## 💼 Professional Experience
-
-### Flutter Developer Intern @ AntonX
-*October 2024 - Present | Peshawar, Pakistan*
-- Implementing new features and enhancing Flutter application functionality
-- Working on UI development, state management, and API integrations
-- Contributing to code reviews and collaborative development
-
-### Associate Cloud Engineer Intern @ Atomic Computing
-*April 2025 - July 2025 | Dubai (Remote)*
-- Completed AWS Cloud Sales & Technical Professional Accreditation
-- Supported cloud adoption initiatives and technical enablement projects
-- Organized tech meetups and developer events
-
-## 🏆 Leadership & Volunteering
-
-- 🧠 **Founding Member** - Nafsiyat-e-Roshni (Mental Health Awareness NGO)
-- 🚀 **Co-Founder & COO** - Verve Tech (Software Agency)
-- 🩸 **Regular Blood Donor** - Supporting Thalassemia patients since 2019
-- 💻 **Technical Team Member** - Google Developer Student Club (GDSC) IMSciences
-- 📱 **Social Media Manager** - Microsoft Learn Student Ambassadors (MLSA)
-
-## 📜 Certifications
-
-- ☁️ **AWS Partner: Cloud Sales Accreditation** - AWS (May 2025)
-- ☁️ **AWS Partner: Technical Accreditation** - AWS (June 2025)
-- 📱 **The Complete Flutter Development Course** - Udemy (May 2025)
-- 🐍 **Crash Course on Python** - Google (March 2024)
-- 🔒 **CyberOps Associate** - Cisco (May 2024)
-- 🛠️ **Professional Certificate in DevOps** - Udemy (Sept 2025)
-- 📊 **Professional Certificate in Agile and Scrum** - Udemy (Sept 2025)
 
 ## 📫 Connect With Me
 
