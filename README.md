@@ -22,7 +22,7 @@ I'm a <strong>Flutter Developer</strong> and <strong>Software Engineering gradua
 ```yaml
 education: "B.S. Software Engineering, IMSciences (2021-2025)"
 current_role: "Flutter Developer @ AntonX, Peshawar"
-learning: "AWS Cloud Technologies | Preparing for AWS Certified Cloud Practitioner"
+learning: "AWS Cloud Technologies"
 founding_member: "Nafsiyat-e-Roshni - Mental Health Awareness NGO"
 volunteer: "Regular blood donor for Thalassemia patients since 2019"
 interests: ["Flutter", "Mobile Development", "Cloud Computing", "AI Integration"]
@@ -178,8 +178,7 @@ fun_fact: "I use Arch btw 🐧 and love exploring new tech stacks!"
 
 ### 💭 Quote I Live By
 
-> *"The best way to predict the future is to create it."* — **Peter Drucker**
-
+> *"One must still have chaos in oneself to be able to give birth to a dancing star."* — **Friedrich Nietzsche**
 <br/>
 
 ---
