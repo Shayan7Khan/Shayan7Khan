@@ -21,7 +21,7 @@ I'm a <strong>Flutter Developer</strong> with a passion for building impactful a
 ## 👨‍💻 About Me
 ```yaml
 education: "B.S. Software Engineering, IMSciences (2021-2025)"
-current_role: "Flutter Developer @ AntonX, Peshawar"
+current_role: "Flutter Developer @AntonX, Peshawar"
 learning: "AWS Cloud Technologies"
 founding_member: "Nafsiyat-e-Roshni - Mental Health Awareness NGO"
 volunteer: "Regular blood donor for Thalassemia patients since 2019"
